@@ -1,0 +1,6 @@
+admin admin123 1
+john_doe password123 0
+jane_doe password456 0
+alice_smith pass987 0
+bob_jones qwerty 0
+admin2 admin2pass 1
